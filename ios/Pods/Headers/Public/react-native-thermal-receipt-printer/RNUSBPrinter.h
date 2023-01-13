@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-thermal-receipt-printer/ios/RNUSBPrinter.h

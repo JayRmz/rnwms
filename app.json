@@ -1,0 +1,14 @@
+{
+  "name": "next_wms",
+  "displayName": "next_wms",
+  "version": "Versión de la app",
+  "version": "0.0.1",
+  "build": "Número de compilación",
+  "build": "001.1201.002",
+  "test": "Determina si es versión de pruebas",
+  "test": true,
+  "text": "Texto para indicar la plataforma de prueba",
+  "text": "iOS",
+  "url": "Modifica por el ambiente que requieres usar::Producción: []; Stage:[]; Local: [];",
+  "url": ""
+}
